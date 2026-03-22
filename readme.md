@@ -164,14 +164,19 @@ class Martian7777:
 
 > ⚙️ *To enable the snake animation, add a GitHub Actions workflow — see [Platane/snk](https://github.com/Platane/snk) for setup.*
 
----
 
-## 🏆 Top Contributions
-
+ 
+## 📌 Quick Stats
+ 
 <div align="center">
-  <img width="85%" src="https://github-contributor-stats.vercel.app/api?username=martian7777&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
+ 
+![](https://img.shields.io/badge/Years%20of%20Experience-5%2B-a78bfa?style=for-the-badge)
+![](https://img.shields.io/badge/ML%20Models%20Deployed-50%2B-7c3aed?style=for-the-badge)
+![](https://img.shields.io/badge/Revenue%20Impact-%2B20%25-6d28d9?style=for-the-badge)
+![](https://img.shields.io/badge/Cloud%20Platforms-AWS%20%7C%20Azure%20%7C%20GCP-4c1d95?style=for-the-badge)
+ 
 </div>
-
+ 
 ---
 
 ## 📈 Activity Graph
